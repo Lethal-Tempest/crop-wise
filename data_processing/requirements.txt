@@ -4,4 +4,4 @@ torch
 joblib
 numpy
 pydantic
-sklearn
+scikit-learn
